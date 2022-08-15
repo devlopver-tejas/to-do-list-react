@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+// import App from './App';
+import "./Grocery-bud/index.css"
+
+import App from "./Grocery-bud/App"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
